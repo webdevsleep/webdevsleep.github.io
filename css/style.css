@@ -26,6 +26,8 @@ img {
 }
 
 .header-button {
+	display: inline-block;
+	text-decoration: none;
 	padding: 17px 55px;
 	margin-top: 33px;
 	font-size: 18px;
@@ -145,6 +147,7 @@ footer {
 
 .footer-button {
 	display: inline-block;
+	text-decoration: none;
 	padding: 13px 40px;
 	border-radius: 50px;
 	border: 1px solid #ffffff;
